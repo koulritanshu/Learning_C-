@@ -1,0 +1,2 @@
+c - kernighan and ritchie
+cpp - bjarne soustroup

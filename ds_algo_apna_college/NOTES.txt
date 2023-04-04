@@ -1,0 +1,4 @@
+1) INT_MAX
+2) INT_MIN
+3) to_string()
+4) string.push_back()

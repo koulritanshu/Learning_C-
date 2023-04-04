@@ -1,0 +1,11 @@
+for right shift operators
+
+x >> y
+
+x = x / 2^y
+
+for left shift operators
+
+x << y
+
+x = x * 2^y
